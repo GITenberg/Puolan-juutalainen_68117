@@ -1,0 +1,34 @@
+_repo: Puolan-juutalainen_68117
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Salonen, B. F.
+    birthdate: 1849
+    deathdate: 1881
+    gutenberg_agent_id: '25809'
+    url: http://www.gutenberg.org/2009/agents/25809
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Erckmann-Chatrian
+    - https://fr.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2022-05-18'
+identifiers:
+  gutenberg: '68117'
+language: fi
+pgterms:marc905: 20210605073609erckmannch
+pgterms:marc906: '1879'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Hämäläinen Osake-Yhtiö,1879.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Puolan juutalainen
+url: http://www.gutenberg.org/ebooks/68117
