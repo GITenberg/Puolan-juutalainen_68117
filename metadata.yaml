@@ -7,6 +7,9 @@ contributor:
     deathdate: 1881
     gutenberg_agent_id: '25809'
     url: http://www.gutenberg.org/2009/agents/25809
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Erckmann-Chatrian
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Erckmann-Chatrian
     - https://fr.wikipedia.org/wiki/Erckmann-Chatrian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68117#Puolan-juutalainen
 gutenberg_issued: '2022-05-18'
 identifiers:
   gutenberg: '68117'
